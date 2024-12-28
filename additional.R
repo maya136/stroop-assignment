@@ -1,6 +1,8 @@
 # R course for beginners
 # Week 7 - Additional assignment
+# Print plots & run a model
 # assignment by Maya Pohes, id 315114744
+# 28.12.24
 
 
 # Packages and imports ----

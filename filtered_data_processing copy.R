@@ -1,6 +1,10 @@
 # R course for beginners
 # Week 7 - Filtered data
+# this code takes the raw data and filters it:
+# drops rows that have values not in range or invalid
+# Also print summery of how much precentage was dropped
 # assignment by Maya Pohes, id 315114744
+# 28.12.24
 
 
 # Packages and imports ----
